@@ -6,9 +6,10 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(features = "src/test/Resources/features",
-                     glue = "src/test/java/com/stepdefinition",
+                     glue = "com/stepdefinition",
                       tags = "@functional",
-                       dryRun = true)
+                       dryRun = false,
+                        monochrome = true)
 public class Europerunner {
 
 }
