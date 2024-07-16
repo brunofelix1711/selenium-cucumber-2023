@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="DeveloperTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-16T04:49:42" hostname="RATAN" time="0.022">
+  <properties/>
+  <testcase name="m1Test" classname="DeveloperTest" time="0.022"/>
+  <system-out><![CDATA[i am a develeoper
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

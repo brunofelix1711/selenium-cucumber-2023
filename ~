@@ -1,0 +1,36 @@
+this files are deleted
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 6 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	deleted:    server/120.0.6099.109.manifest
+#	deleted:    server/ABOUT
+#	deleted:    server/D3DCompiler_47.dll
+#	deleted:    server/First Run
+#	deleted:    server/MEIPreload/manifest.json
+#	deleted:    server/MEIPreload/preloaded_data.pb
+#	deleted:    server/chrome.exe
+#	deleted:    server/chrome_100_percent.pak
+#	deleted:    server/chrome_200_percent.pak
+#	deleted:    server/chrome_elf.dll
+#	deleted:    server/chrome_proxy.exe
+#	deleted:    server/chrome_pwa_launcher.exe
+#	deleted:    server/chrome_wer.dll
+#	deleted:    server/dxcompiler.dll
+#	deleted:    server/dxil.dll
+#	deleted:    server/elevation_service.exe
+#	deleted:    server/icudtl.dat
+#	deleted:    server/libEGL.dll
+#	deleted:    server/libGLESv2.dll
+#	deleted:    server/mojo_core.dll
+#	deleted:    server/notification_helper.exe
+#	deleted:    server/resources.pak
+#	deleted:    server/v8_context_snapshot.bin
+#	deleted:    server/vk_swiftshader.dll
+#	deleted:    server/vk_swiftshader_icd.json
+#	deleted:    server/vulkan-1.dll
+#
